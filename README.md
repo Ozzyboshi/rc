@@ -2,11 +2,11 @@
 # RC (Rally Cross)
 
 First of all the RC concept is not mine, I used to play an RC game in the late 90s on my Pentium
-75Mhz machine (well... I remember the Amiga was already collecting dust in my ceiling at that
+75Mhz machine (well... I remember the Amiga was already collecting dust in my attic at that
 time). I don't remember where I found the game... I just remember it was a shareware game and my
 friend bought the full version from the original author, Fabio Antoniazzi, then he sent back an envelope to him 
 with 4 HD floppy disks inside. Well... for some strange reason I found this floppy disk on my
-ceiling at the end of 2022 and they were still partially working.
+attic at the end of 2022 and they were still partially working.
 
 In the same period, Phaze 101 launched a game jam on car racing games on Twitch, additionally, he
 asked me to be a regular guest in his channel and talk about Amiga hardware programming. Since RC
