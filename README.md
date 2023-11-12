@@ -23,7 +23,7 @@ Rc is a collective effort from the following people:
 - Ozzyboshi / concept and code
 - Vectrex28 / fonts
 - Z3K / Tracks and background images
-- Lunix / Tracks
+- Lunix / Tracks and menu music
 - Oriens / Tracks
 - Maze / mod.alfetta background music
 - O. Stokka (4pLaY) / Coordination
